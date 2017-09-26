@@ -1,0 +1,26 @@
+{
+  "name": "php-js-website",
+  "version": "1.0.0",
+  "description": "A Complete Website That Supports PHP Backend And Js-JQuery Frontend!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezahamidi/php-js-website.git"
+  },
+  "keywords": [
+    "php web",
+    "js web",
+    "jquery web",
+    "web framework",
+    "framework"
+  ],
+  "author": "4152 Production",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezahamidi/php-js-website/issues"
+  },
+  "homepage": "https://github.com/alirezahamidi/php-js-website#readme"
+}
